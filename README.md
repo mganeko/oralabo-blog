@@ -1,6 +1,12 @@
-[![テスト](https://github.com/gh640/nextjs-blog-example-ja/actions/workflows/tests.yml/badge.svg)](https://github.com/gh640/nextjs-blog-example-ja/actions/workflows/tests.yml)
 
-# `nextjs-blog-example-ja`
+# oralabo blog
+
+oralabo が提供するアプリについてのブログです。
+
+このブログは  [gh640/nextjs-blog-example-ja](https://github.com/gh640/nextjs-blog-example-ja)(MITライセンス)を利用して作成しています。
+
+
+## `nextjs-blog-example-ja` について
 
 React ベースのフレームワーク [Next.js](https://nextjs.org/) でシンプルなブログを作るサンプルです。
 
