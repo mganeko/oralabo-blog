@@ -36,4 +36,10 @@ jobs:
       - name: export blog
         run: npm run export
 
-
+      # gh-pagesを使って公開
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: ./out
