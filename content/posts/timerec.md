@@ -156,4 +156,14 @@ TimeRec+では歯車ボタンから呼び出す設定項目が増えています
 
 ## Siri連携（時刻を記録）
 
+TimeRec+では歯車ボタンから呼び出す設定画面の「Siriに追加」ボタンをタップすると、音声コマンドを登録することができます。
+
+![Siriに追加ボタン](/images/timerecplus_siri_button_300.png "Siriに追加ボタン")
+
+
+デフォルトの音声コマンドは「時刻を記録」になります。「Hay Siri, 時刻を記録」で時刻を記録するとができます。
+
+![Siriに追加](/images/timerecpuls_adding_siri_300.png "Siriに追加")
+
+
 ## AppleWatch連携
