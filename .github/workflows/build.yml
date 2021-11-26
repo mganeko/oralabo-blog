@@ -36,6 +36,12 @@ jobs:
       - name: export blog
         run: npm run export
 
+      - name: upload artifact
+      - uses: actions/upload-artifact@v2
+        with:
+        name: export_out
+        path: ./out
+
       # gh-pagesを使って公開(private key: ACTION_GHPAGE_DEPLOY_KEY)
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
