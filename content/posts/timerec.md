@@ -167,3 +167,5 @@ TimeRec+では歯車ボタンから呼び出す設定画面の「Siriに追加�
 
 
 ## AppleWatch連携
+
+TimeRec+には、AppleWatchアプリがあります。
