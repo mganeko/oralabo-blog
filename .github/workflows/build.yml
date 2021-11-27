@@ -49,6 +49,6 @@ jobs:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./out
-          cname: github.com
+          cname: ralabo.wlab.dev
         with:
           personal_token: ${{ secrets.ACTION_TOKEN }}
