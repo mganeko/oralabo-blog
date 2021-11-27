@@ -17,3 +17,33 @@ oralabo が提供するアプリについてのブログです。
   - public/images/*
 - other source code are MIT license, as well as [gh640/nextjs-blog-example-ja](https://github.com/gh640/nextjs-blog-example-ja)
 
+## 使用ライブラリ
+
+[gh640/nextjs-blog-example-ja](https://github.com/gh640/nextjs-blog-example-ja)と同じく、以下の NPM パッケージを使用しています。
+
+- `next`
+- `react`
+- `react-dom`
+- `remark`
+- `remark-html`
+- `remark-prism`
+- `gray-matter`
+
+Next.js を利用するために必要な `next` `react` `react-dom` の 3 つと、 frontmatter 付きの Markdown の HTML への変換に有用な `remark` `remark-html` `gray-matter` を使っています。
+追加で、シンタックスハイライトに Prism.js を利用するための `remark-prism` を使っています。
+
+自動テストには以下のパッケージを使用しています。
+
+- `@babel/core`
+- `@babel/preset-env`
+- `@babel/preset-react`
+- `babel-jest`
+- `identity-obj-proxy`
+- `jest`
+- `react-test-renderer`
+
+## TODO
+
+- [ ] image の左のマージン
+- [ ] about ページ
+- [ ] about ページへのリンク
