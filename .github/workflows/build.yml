@@ -49,6 +49,6 @@ jobs:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./out
-          cname: oralabo.wlab.dev
+          cname: github.com
         with:
           personal_token: ${{ secrets.ACTION_TOKEN }}
