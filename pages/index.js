@@ -23,6 +23,11 @@ export default function Home(props) {
         </div>
       ) : ``}
 
+      <div className="about">
+        <Link href="about" as="about.html">このブログについて</Link>
+      </div>
+
+
       <style jsx>{`
         .post-teaser {
           margin-bottom: 2em;
@@ -37,6 +42,12 @@ export default function Home(props) {
           display: flex;
           flex-direction: row;
           justify-content: center;
+        }
+
+        .about {
+          display: flex;
+          justify-content: center;
+          align-items: center;
         }
       `}</style>
     </Layout>
