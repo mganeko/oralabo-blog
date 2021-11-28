@@ -52,4 +52,4 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./out
           cname: oralabo.wlab.dev
-          personal_token: ${{ secrets.ACTION_TOKEN }}
+          #personal_token: ${{ secrets.ACTION_TOKEN }}
