@@ -11,11 +11,11 @@ const About = () => {
        <ul>
          <li>next</li>
          <li>react</li>
-         <li>`react-dom`</li>
-         <li>`remark`</li>
-         <li>`remark-html`</li>
-         <li>`remark-prism`</li>
-         <li>gray-matter`</li>
+         <li>react-dom</li>
+         <li>remark</li>
+         <li>remark-html</li>
+         <li>remark-prism</li>
+         <li>gray-matter</li>
        </ul>
       </div>
     </Layout>)
