@@ -10,6 +10,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+  workflow_dispatch
 
 env:
   NODE_VERSION: '16'
@@ -45,10 +46,10 @@ jobs:
       # gh-pagesを使って公開(private key: ACTION_GHPAGE_DEPLOY_KEY)
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
-        env:
+        #env:
+        with:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./out
-          cname: github.com
-        with:
+          cname: oralabo.wlab.dev
           personal_token: ${{ secrets.ACTION_TOKEN }}
