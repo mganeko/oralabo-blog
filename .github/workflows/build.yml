@@ -49,7 +49,7 @@ jobs:
         #env:
         with:
           # ACTIONS_DEPLOY_KEY: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }} # NG
-          deploy_key: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }}
+          deploy_key: ${{ secrets.ACTION_GHPAGE_DEPLOY_KEY }} # OK
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./out
           cname: oralabo.wlab.dev
