@@ -72,7 +72,9 @@ const Layout = (props) => {
           font-size: 16px;
         }
 
-        img,
+        img {
+          margin-left: 60px;
+        },
         iframe {
           max-width: 100%;
         }
