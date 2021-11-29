@@ -164,7 +164,20 @@ TimeRec+では歯車ボタンから呼び出す設定画面の「Siriに追加�
 
 ![Siriに追加](/images/timerecpuls_adding_siri_300.png "Siriに追加")
 
+追加したSiriコマンドは、ショートカットアプリからも利用できます。
 
 ## AppleWatch連携
 
 TimeRec+には、AppleWatchアプリがあります。
+
+![AppleWatch App](/images/applewatch_app_240.png "AppleWatch App")
+
+できることはシンプルで、ボタンを押すとiPhone側のTimeRec+でその時の時刻を記録します。
+
+![AppleWatch Add Button](/images/applewatch_add_button_240.png "AppleWatch  Add Button")
+
+iPhone側で時刻が記録されると、その結果がAppleWatch側のアプリに表示されます。
+
+![AppleWatch Add Result](/images/applewatch_add_result_240.png "AppleWatch  Add Result")
+
+
