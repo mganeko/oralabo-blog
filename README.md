@@ -48,3 +48,5 @@ Next.js を利用するために必要な `next` `react` `react-dom` の 3 つ�
 - [x] about ページ
 - [x] about ページへのリンク
 - [ ] favicon.icoを変更
+- [ ] 記事分割
+- [ ] プライバシーポリシー
