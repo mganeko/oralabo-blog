@@ -3,6 +3,8 @@ title: 時刻を記録するアプリ TimeRec/TimeRec+
 published: 2021-11-15
 ---
 
+## 目次
+
 # TimeRec と TimeRec+
 
 ## 無料アプリ TimeRec
