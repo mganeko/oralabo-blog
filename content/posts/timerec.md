@@ -1,6 +1,6 @@
 ---
 title: 時刻を記録するアプリ TimeRec/TimeRec+
-published: 2021-11-15
+published: 2021-12-01
 ---
 
 ## 目次
