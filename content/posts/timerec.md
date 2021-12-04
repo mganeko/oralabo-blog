@@ -13,13 +13,13 @@ TimeRec は現在時刻を記録するシンプルな無料のアプリです。
 
 ![TimeRecアイコン](/images/TimeRec00_Thick_180.png "TimeRecアイコン")
 
-[![AppStore](/images/appstore1.png)](https://apps.apple.com/jp/app/timerec/id1583231611)
-
 ![TimeRecスクリーン](/images/timerec_screen_300.png "TimeRecスクリーン")
 
 TimeRecができることについて、「[できること（共通）](#user-content-できること共通)」 をご覧ください。
 
 TimeRecのAppStoreのページはこちらです。
+
+[![AppStore](/images/appstore1.png)](https://apps.apple.com/jp/app/timerec/id1583231611)
 
 ![TimeRecQR](/images/timerecQR.png "TimeRecQR")
 
@@ -30,9 +30,6 @@ TimeRecのAppStoreのページはこちらです。
 
 ![TimeRec+アイコン](/images/TimeRecPlus_Thick_180.png "TimeRec+アイコン")
 
-[![AppStore](/images/appstore1.png)](https://apps.apple.com/jp/app/timerecplus/id1583450422)
-
-
 - 位置情報の記録
 - メモの記録
 - 記録された時刻の前後の写真を表示
@@ -42,6 +39,8 @@ TimeRecのAppStoreのページはこちらです。
 詳細は「[TimeRec+ の追加機能](#user-content-timerec-の追加機能)」をご覧ください。
 
 TimeRecPlusのAppStoreのページはこちらです。
+
+[![AppStore](/images/appstore1.png)](https://apps.apple.com/jp/app/timerecplus/id1583450422)
 
 ![TimeRecPlusQR](/images/timerecplusQR.png "TimeRecPlusQR")
 
