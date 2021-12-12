@@ -37,6 +37,7 @@ jobs:
       - name: export blog
         run: npm run export
 
+      # 生成した結果を保存しておく
       - name: upload artifact
         uses: actions/upload-artifact@v2
         with:
