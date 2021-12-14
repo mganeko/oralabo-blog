@@ -27,10 +27,12 @@ oralabo が提供するアプリについてのブログです。
 - `remark`
 - `remark-html`
 - `remark-prism`
+- `remark-slug`
+- `remark-toc`
 - `gray-matter`
 
-Next.js を利用するために必要な `next` `react` `react-dom` の 3 つと、 frontmatter 付きの Markdown の HTML への変換に有用な `remark` `remark-html` `gray-matter` を使っています。
-追加で、シンタックスハイライトに Prism.js を利用するための `remark-prism` を使っています。
+Next.js を利用するために必要な `next` `react` `react-dom` の 3 つと、 frontmatter 付きの Markdown の HTML への変換に有用な `remark` `remark-html` `gray-matter` を使っています。見出しにアンカーを埋め込むために `remark-slug` を、目次の生成に `remark-toc` を使っています。
+またシンタックスハイライトに Prism.js を利用するための `remark-prism` を使っています。
 
 自動テストには以下のパッケージを使用しています。
 
