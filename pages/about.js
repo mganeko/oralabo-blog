@@ -15,6 +15,8 @@ const About = () => {
          <li>remark</li>
          <li>remark-html</li>
          <li>remark-prism</li>
+         <li>remark-slug</li>
+         <li>remark-toc</li>
          <li>gray-matter</li>
        </ul>
       </div>

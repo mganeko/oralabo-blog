@@ -19,7 +19,7 @@ oralabo が提供するアプリについてのブログです。
 
 ## 使用ライブラリ
 
-[gh640/nextjs-blog-example-ja](https://github.com/gh640/nextjs-blog-example-ja)と同じく、以下の NPM パッケージを使用しています。
+以下の NPM パッケージを使用しています。
 
 - `next`
 - `react`
